@@ -6,8 +6,8 @@ Dette er for at simulere en meget stort/langsom arbejdsopgave som serveren skal 
 
 #### 1. Opgave
 1. Klon og åben dette projekt (https://github.com/distribuerede-systemer-2019/scaled-dis.git) på din computer.
-2. Lav et request i din browser
-3. Inspicer hvor lang tid requestet tager
+2. Lav et request i din browser (gå til localhost:31337)
+3. Hvor lang tid tager requestet (Meget lavpraktisk: brug fx et stopur)
 
 #### 2. Opgave
 For at teste hvad den langsomme svartid rent faktisk har på et stort DIS (dvs. meget trafik), er vi nødt til at simulere mange request på serveren.
