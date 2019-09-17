@@ -5,7 +5,7 @@ I denne udgave af samme kode som fra 1. øvelsesgang har jeg indlagt en meget la
 Dette er for at simulere en meget stort/langsom arbejdsopgave som serveren skal lave, inden den kan returnere til klienten.
 
 #### 1. Opgave
-1. Klon og åben dette projekt (https://github.com/distribuerede-systemer-2019/scaled-dis.git) på din computer.
+1. Klon og åben dette projekt (https://github.com/distribuerede-systemer-2019/scaled-dis.git) på din computer. (I skal ikke importere med maven med oprette fra existing sources, når i importerer)
 2. Lav et request i din browser (gå til localhost:31337)
 3. Hvor lang tid tager requestet (Meget lavpraktisk: brug fx et stopur)
 
