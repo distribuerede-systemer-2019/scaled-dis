@@ -51,6 +51,15 @@ Prøv at leg rundt med de forskellige indstillinger og se hvor godt din server p
 - Hvor mange transactions kan jeres dis lave på 20 sekunder?
 - Hvor høj er jeres transaction rate?
 
+Installer Siege på **windows**:
+1. Gå her til: https://github.com/ewwink/siege-windows
+2. Download projected som zip.
+3. Udpak første zip.
+4. Udpak anden zip.
+5. flyt mappen `siege-windows` til C:\
+6. I din terminal navigerer du til C:\siege-windows
+7. Herinde fra kan du kører siege kommandoer. Ex `siege -c 10 -t 20S -b http://localhost:31337 -v`
+
 #### 3. Opgave
 1. Skift branch til `thread`
 2. Udfør step 9., 10. og 11. igen
